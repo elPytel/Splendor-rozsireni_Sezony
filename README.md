@@ -2,8 +2,8 @@
 
 - [Splendor rozšíření: Sezóny](#splendor-rozšíření-sezóny)
     - [Údálost (změna ceny)](#údálost-změna-ceny)
-    - [Tabulka karet žetonů](#tabulka-karet-žetonů)
-    - [Tabulka karet údálostí](#tabulka-karet-údálostí)
+    - [Tabulka karet Sezón (žetonů)](#tabulka-karet-sezón-žetonů)
+    - [Tabulka karet událostí](#tabulka-karet-událostí)
     - [Herní příklad](#herní-příklad)
 
 Přicházejí sezónní slevy (zdražení) na nákup karet. 
@@ -36,7 +36,7 @@ Typy událostí:
 - **-1** - Obchodní smlouva, cechovní podpora, krátká zima, vydatná žíla, příznivý vítr
 - **-2** - Nová naleziště, Snížené clo
 
-### Tabulka karet žetonů
+### Tabulka karet Sezón (žetonů)
 
 10 karet sezón, každý 2 kusy.
 
@@ -47,25 +47,25 @@ Typy událostí:
 > [!note]
 > Obrázky vygeneroval ChatGPT.
 
-### Tabulka karet údálostí
+### Tabulka karet událostí
 
 15 karet událostí, každý 1 kus.
 
 | +2 Zavalený důl | +2 Parné léto |
 |---|---|
-| ![](assets/ChatGPT-Událost_Zavalený_důl.png) | ![](assets/ChatGPT-Událost_Parné_léto.png) |
+| ![](assets/events/ChatGPT-Zavalený_důl.png) | ![](assets/events/ChatGPT-Událost_Parné_léto.png) |
 
 | +1 Změna vkusu | +1 Královská daň | +1 Potopená loď | +1 Ledový průsmyk | +1 Rozbouřené moře | +1 Piráti |
 |---|---|---|---|---|---|
-| ![](assets/ChatGPT-Událost_Změna_vkusu.png) | ![](assets/ChatGPT-Událost_Královská_daň.png) | ![](assets/ChatGPT-Událost_Potopená_loď.png) | ![](assets/ChatGPT-Událost_Ledový_průsmyk.png) | ![](assets/ChatGPT-Událost_Rozbouřené_moře.png) | ![](assets/ChatGPT-Událost_Piráti.png) |
+| ![](assets/events/ChatGPT-Událost_Změna_vkusu.png) | ![](assets/events/ChatGPT-Událost_Královská_daň.png) | ![](assets/events/ChatGPT-Událost_Potopená_loď.png) | ![](assets/events/ChatGPT-Událost_Ledový_průsmyk.png) | ![](assets/events/ChatGPT-Událost_Rozbouřené_moře.png) | ![](assets/events/ChatGPT-Událost_Piráti.png) |
 
 | -1 Obchodní smlouva | -1 Cechovní podpora | -1 Krátká zima | -1 Vydatná žíla | -1 Příznivý vítr |
 |---|---|---|---|---|
-| ![](assets/ChatGPT-Událost_Obchodní_smlouva.png) | ![](assets/ChatGPT-Událost_Cechovní_podpora.png) | ![](assets/ChatGPT-Událost_Krátká_zima.png) | ![](assets/ChatGPT-Událost_Vydatná_žíla.png) | ![](assets/ChatGPT-Událost_Příznivý_vítr.png) |
+| ![](assets/events/ChatGPT-Událost_Obchodní_smlouva.png) | ![](assets/events/ChatGPT-Událost_Cechovní_podpora.png) | ![](assets/events/ChatGPT-Událost_Krátká_zima.png) | ![](assets/events/ChatGPT-Událost_Vydatná_žíla.png) | ![](assets/events/ChatGPT-Událost_Příznivý_vítr.png) |
 
 | -2 Nová naleziště | -2 Snížené clo |
 |---|---|
-| ![](assets/ChatGPT-Událost_Nová_naleziště.png) | ![](assets/ChatGPT-Událost_Snížené_clo.png) |
+| ![](assets/events/ChatGPT-Nová_naleziště.png) | ![](assets/events/ChatGPT-Událost_Snížené_clo.png) |
 
 ### Herní příklad
 Na kartách je kombinace:
@@ -73,7 +73,7 @@ Na kartách je kombinace:
 
 Znamená to slovu na nákup karty. Všechny karty které mají v ceně zelené žetony jsou tedy levnější (až od dva zelené žetony) (cena nemůže být záporná).
 
-| Půvpdní cena | Nová cena |
+| Původní cena | Nová cena |
 |--------------|-----------|
 | 2 bílé       | 2 bílé    |
 | 1 černý      | 2 černé   |
@@ -84,7 +84,7 @@ Na kartách je kombinace:
 
 Při nákupu karet s cenou v bílých žetonech musíte k ceně (bílým) přičíst +1.
 
-| Půvpdní cena | Nová cena |
+| Původní cena | Nová cena |
 |--------------|-----------|
 | 2 bílé       | 3 bílé    |
 | 1 černý      | 2 černé   |
