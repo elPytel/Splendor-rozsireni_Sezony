@@ -6,6 +6,7 @@
     - [Tabulka karet Sezón (žetonů)](#tabulka-karet-sezón-žetonů)
     - [Tabulka karet událostí](#tabulka-karet-událostí)
     - [Herní příklad](#herní-příklad)
+    - [Přehledová kartička s nápovědou](#přehledová-kartička-s-nápovědou)
 
 Přicházejí sezónní slevy (zdražení) na nákup karet. 
 Vybrané kameny jsou na kartách levnější, nebo dražší podle údálostí ve hře.
@@ -33,7 +34,7 @@ Počet událostí: 5, 10, 15 (aby byli soudělné balíčky)
 
 Typy událostí:
 - **+2** - Zavalený důl ⛏️, Parné léto ☀️
-- **+1** - Změna vkusu 💍, královská daň 👑, potopená loď ⚓, ledový průsmyk ❄️, rozbouřené moře 🌊, piráti 🏴‍☠️, Ztracená karavana
+- **+1** - Změna vkusu 💍, královská daň 👑, potopená loď ⚓, ledový průsmyk 🧊, rozbouřené moře 🌊, piráti 🏴‍☠️, Ztracená karavana 🐪
 - **-1** - Obchodní smlouva 📜, cechovní podpora 🛠️, krátká zima ❄️, vydatná žíla 💎, příznivý vítr 💨
 - **-2** - Nová naleziště 💎, Snížené clo 🪙
 
@@ -83,7 +84,7 @@ Použito jako popis pro generování obrázků v ChatGPT.
 
 | Diamant | Onyx | Rubín | Smaragd | Safír |
 |---|---|---|---|---|
-| ![](assets/stones/ChatGPT-Sozóna_Diamant.png) | ![](assets/stones/ChatGPT-Sozóna_Onyx.png) | ![](assets/stones/ChatGPT-Sezóna_Rubín_v2.png) | ![](assets/stones/ChatGPT-Sezóna_Smaragd.png) | ![](assets/stones/ChatGPT-Sezóna_Safír.png) |
+| ![](assets/stones/ChatGPT-Sozóna_Diamant.png) | ![](assets/stones/ChatGPT-Sozóna_Onyx.png) | ![](assets/stones/ChatGPT-Sezóna_Rubín.png) | ![](assets/stones/ChatGPT-Sezóna_Smaragd.png) | ![](assets/stones/ChatGPT-Sezóna_Safír.png) |
 
 ### Tabulka karet událostí
 
@@ -127,3 +128,34 @@ Při nákupu karet s cenou v bílých žetonech musíte k ceně (bílým) přič
 | 2 bílé       | 3 bílé    |
 | 1 černý      | 2 černé   |
 | 3 zelené     | 3 zelené  |
+
+### Přehledová kartička s nápovědou
+
+🂠 SPLENDOR: SEZÓNY – Přehled
+
+🎲 Změna sezóny
+
+- Na začátku svého tahu může hráč hodit kostkou.
+- Padne-li 6, změní se sezóna.
+- Otoč novou kartu Sezóny a novou kartu Události.
+
+💎 Karty
+- Sezóny určují barvu žetonu.
+- Události mění cenu karet (např. +1, −2).
+- Žetony zlata (🟡) se nikdy nemění.
+
+⚖️ Účinek
+
+Při nákupu karty:
+- Připočti / odečti cenu žetonu podle události.
+- Cena nemůže být záporná.
+
+💡 Např.:
+
+Událost −2 Zelené → všechny karty se zelenými žetony jsou levnější o 2.
+
+🔄 Konec události
+
+Změní se, když padne další 6 na kostce.
+
+![Přehledová kartička s nápovědou](assets/ChatGPT-SEZÓNY_Přehled.png)
