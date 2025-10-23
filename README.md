@@ -60,6 +60,13 @@ Typy událostí:
 ### Design událostí
 Použito jako popis pro generování obrázků v ChatGPT.
 
+
+**+2**
+| Text na kartě | Popis obrázku |
+|---------------|----------------|
+| +2 Zavalený důl | Štola s kameními a zřícený důl. Kamenné bloky a dřevěné výztuže. |
+| +2 Parné léto | Černoch u vchodu do dolu. Utírá si pot z čela. Na vše praží slunce. Uvadlá tráva na zemi. |
+
 **+1**
 
 | Text na kartě | Popis obrázku |
@@ -71,13 +78,6 @@ Použito jako popis pro generování obrázků v ChatGPT.
 | +1 Rozbouřené moře | Bouřlivé moře, černé mraky, déšť, blesk v dálce. |
 | +1 Piráti | Pirátská loď na rozbouřeném moři, vlající černá vlajka. |
 | +1 Ztracená karavana | Karavana velbloudů v písečné bouři, pouštní duny a mizící obzor. |
-
-+2 
-| Text na kartě | Popis obrázku |
-|---------------|----------------|
-| +2 Zavalený důl | Štola s kameními a zřícený důl. Kamenné bloky a dřevěné výztuže. |
-| +2 Parné léto | Černoch u vchodu do dolu. Utírá si pot z čela. Na vše praží slunce. Uvadlá tráva na zemi. |
-
 
 **-1** 
 | Text na kartě | Popis obrázku |
@@ -113,9 +113,10 @@ Použito jako popis pro generování obrázků v ChatGPT.
 |---|---|---|
 | ![](assets/events/ChatGPT-Zavalený_důl.png) | ![](assets/events/ChatGPT-Parné_léto.png) | ![](assets/events/ChatGPT-Potopená_loď.png) |
 
-| +1 Změna vkusu | +1 Královská daň |  +1 Ledový průsmyk | +1 Rozbouřené moře | +1 Piráti |
-|---|---|---|---|---|
-| ![](assets/events/ChatGPT-Změna_vkusu.png) | ![](assets/events/ChatGPT-Královská_daň.png) | ![](assets/events/ChatGPT-Ledový_průsmyk.png) | ![](assets/events/ChatGPT-Rozbouřené_moře.png) | ![](assets/events/ChatGPT-Piráti.png) |
+| +1 Změna vkusu | +1 Královská daň |  +1 Ledový průsmyk | +1 Rozbouřené moře | +1 Piráti | +1 Ztracená karavana |
+|---|---|---|---|---|---|
+| ![](assets/events/ChatGPT-Změna_vkusu.png) | ![](assets/events/ChatGPT-Královská_daň.png) | ![](assets/events/ChatGPT-Ledový_průsmyk.png) | ![](assets/events/ChatGPT-Rozbouřené_moře.png) | ![](assets/events/ChatGPT-Piráti.png) | ![](assets/events/ChatGPT-Ztracená_karavana.png) |
+
 
 | -1 Obchodní smlouva | -1 Cechovní podpora | -1 Krátká zima | -1 Vydatná žíla | -1 Příznivý vítr |
 |---|---|---|---|---|
