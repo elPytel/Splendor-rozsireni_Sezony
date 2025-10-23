@@ -13,7 +13,11 @@ Vybrané kameny jsou na kartách levnější, nebo dražší podle údálostí v
 
 Dva balíčky karet:
 - Sezóny - určují barvu. 
-- Ceny - ty mohou klesat nebo růst.
+- Události - změna ceny, ty mohou klesat nebo růst.
+
+| Sezóny | Události |
+|--------|----------|
+| ![](assets/ChatGPT-Sezóny_rub.png) | ![](assets/ChatGPT-Události.png) |
 
 Hráč může a nebo nemusí hodit kostkou na začátku svého tahu. Pokud padne 6, mění se sezóna. Hráč otočí vrchní kartu z obou balíčků.
 
@@ -80,7 +84,7 @@ Použito jako popis pro generování obrázků v ChatGPT.
 
 ### Tabulka karet Sezón (žetonů)
 
-10 karet sezón, každý 2 kusy.
+10 karet sezón celkem, 5 druhů - každý 2 kusy.
 
 | Diamant | Onyx | Rubín | Smaragd | Safír |
 |---|---|---|---|---|
