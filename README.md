@@ -1,12 +1,13 @@
 # Splendor rozšíření: Sezóny
 
 - [Splendor rozšíření: Sezóny](#splendor-rozšíření-sezóny)
-    - [Údálost (změna ceny)](#údálost-změna-ceny)
-      - [Design událostí](#design-událostí)
-    - [Tabulka karet Sezón (žetonů)](#tabulka-karet-sezón-žetonů)
-    - [Tabulka karet událostí](#tabulka-karet-událostí)
-    - [Herní příklad](#herní-příklad)
-    - [Přehledová kartička s nápovědou](#přehledová-kartička-s-nápovědou)
+  - [Údálost (změna ceny)](#údálost-změna-ceny)
+    - [Design událostí](#design-událostí)
+  - [Tabulka karet Sezón (žetonů)](#tabulka-karet-sezón-žetonů)
+  - [Tabulka karet událostí](#tabulka-karet-událostí)
+  - [Úvodní text](#úvodní-text)
+  - [Herní příklad](#herní-příklad)
+  - [Přehledová kartička s nápovědou](#přehledová-kartička-s-nápovědou)
 
 Přicházejí sezónní slevy (zdražení) na nákup karet. 
 Vybrané kameny jsou na kartách levnější, nebo dražší podle údálostí ve hře.
@@ -15,9 +16,11 @@ Dva balíčky karet:
 - Sezóny - určují barvu. 
 - Události - změna ceny, ty mohou klesat nebo růst.
 
-| Sezóny | Události |
-|--------|----------|
-| ![](assets/ChatGPT-Sezóny_rub.png) | ![](assets/ChatGPT-Události.png) |
+Rubové karty:
+
+| Pravidla | Sezóny | Události |
+|--------|----------|----------|
+| ![](assets/ChatGPT-Sezóny_Pravidla.png) | ![](assets/ChatGPT-Sezóny_rub.png) | ![](assets/ChatGPT-Události.png) |
 
 Hráč může a nebo nemusí hodit kostkou na začátku svého tahu. Pokud padne 6, mění se sezóna. Hráč otočí vrchní kartu z obou balíčků.
 
@@ -31,7 +34,7 @@ Barvy kamenů:
 
 Barvy žetonů pro které mohou být slevy jsou rovnoměrně zastoupené herní žetony kromě zlata.
 
-### Údálost (změna ceny)
+## Údálost (změna ceny)
 Ceny se mohou měnit: -2, -1, +1, +2
 
 Počet událostí: 5, 10, 15 (aby byli soudělné balíčky)
@@ -42,7 +45,7 @@ Typy událostí:
 - **-1** - Obchodní smlouva 📜, cechovní podpora 🛠️, krátká zima ❄️, vydatná žíla 💎, příznivý vítr 💨
 - **-2** - Nová naleziště 💎, Snížené clo 🪙
 
-#### Design událostí
+### Design událostí
 Použito jako popis pro generování obrázků v ChatGPT.
 
 **+1**
@@ -82,7 +85,7 @@ Použito jako popis pro generování obrázků v ChatGPT.
 > [!note]
 > Obrázky vygeneroval ChatGPT.
 
-### Tabulka karet Sezón (žetonů)
+## Tabulka karet Sezón (žetonů)
 
 10 karet sezón celkem, 5 druhů - každý 2 kusy.
 
@@ -90,17 +93,17 @@ Použito jako popis pro generování obrázků v ChatGPT.
 |---|---|---|---|---|
 | ![](assets/stones/ChatGPT-Sozóna_Diamant.png) | ![](assets/stones/ChatGPT-Sozóna_Onyx.png) | ![](assets/stones/ChatGPT-Sezóna_Rubín.png) | ![](assets/stones/ChatGPT-Sezóna_Smaragd.png) | ![](assets/stones/ChatGPT-Sezóna_Safír.png) |
 
-### Tabulka karet událostí
+## Tabulka karet událostí
 
 15 karet událostí, každý 1 kus.
 
-| +2 Zavalený důl | +2 Parné léto |
-|---|---|
-| ![](assets/events/ChatGPT-Zavalený_důl.png) | ![](assets/events/ChatGPT-Parné_léto.png) |
+| +2 Zavalený důl | +2 Parné léto | +2 Potopená loď |
+|---|---|---|
+| ![](assets/events/ChatGPT-Zavalený_důl.png) | ![](assets/events/ChatGPT-Parné_léto.png) | ![](assets/events/ChatGPT-Potopená_loď.png) |
 
-| +1 Změna vkusu | +1 Královská daň | +1 Potopená loď | +1 Ledový průsmyk | +1 Rozbouřené moře | +1 Piráti |
-|---|---|---|---|---|---|
-| ![](assets/events/ChatGPT-Změna_vkusu.png) | ![](assets/events/ChatGPT-Královská_daň.png) | ![](assets/events/ChatGPT-Potopená_loď.png) | ![](assets/events/ChatGPT-Ledový_průsmyk.png) | ![](assets/events/ChatGPT-Rozbouřené_moře.png) | ![](assets/events/ChatGPT-Piráti.png) |
+| +1 Změna vkusu | +1 Královská daň |  +1 Ledový průsmyk | +1 Rozbouřené moře | +1 Piráti |
+|---|---|---|---|---|
+| ![](assets/events/ChatGPT-Změna_vkusu.png) | ![](assets/events/ChatGPT-Královská_daň.png) | ![](assets/events/ChatGPT-Ledový_průsmyk.png) | ![](assets/events/ChatGPT-Rozbouřené_moře.png) | ![](assets/events/ChatGPT-Piráti.png) |
 
 | -1 Obchodní smlouva | -1 Cechovní podpora | -1 Krátká zima | -1 Vydatná žíla | -1 Příznivý vítr |
 |---|---|---|---|---|
@@ -110,7 +113,25 @@ Použito jako popis pro generování obrázků v ChatGPT.
 |---|---|
 | ![](assets/events/ChatGPT-Nová_naleziště.png) | ![](assets/events/ChatGPT-Snížené_clo.png) |
 
-### Herní příklad
+## Úvodní text
+
+[Úvodní text](./Úvod.md)
+
+Benáčtí obchodnící čelí nečaným událostem, které mohou s jinak výdělečnými ochody s diamantami rychle zamávat. 
+
+Námořní doprava je nebezpečná a zrádná. Navyzpytatelné počasí si na obdhocních lodích vybírá svou daň stejně draze jako ti prokletí piráti. Lodě se vracejí čím dál častěji poškozené a občas nevrátí vůbec...
+No ale na druhou stranu, ani na pěvnině to není zrovna růžové. Najmete si takhle třeba karavanu a ona se ztratí v poušti i s nákladem!
+Ještě aby letos nepřišla tuhá zima. Zapadají horské průsmyky na Kavkazu a co pak?
+
+A vůbec vám nemluvte o králi! Zas ty jeho válečná tažení v Toskánksu. Kdo chtěl vůbec tu jednotnou Itálii? No vy ne, bylo vám tu dobře i bez něj. Prý se dokonce chystá uvalit novou daň z obchodu s darými kameny. 
+
+Aspoň že váš cech drží při sobě a krejete si záda před konkurencí, držet alespoň část trhu pevně v rukách je mocná zbraň, která vám umožnuje se občas podělit o nebývale vysoké zisky. Snažíte se větřít králi do jeho přízně a přesvědčit ho, aby alespoň snížil clo pro dovezený náklad z vašich lodí. Ale není to s ním lehké, ještě aby se mu změnil vkus!
+
+Investice do prospektorů se také začíná pomalu vyplácet. Přišli zprávy o tom, že objevili nová slibná naleziště nedaleko tech stávajích a můžete uvažovat o rozšíření těžby. 
+
+Do toho všeho se musíte věnovat běžným povinostem obchodníka s lukrativním zbožím. Uzavírat smlouvy se skoupími prodejci. 
+
+## Herní příklad
 Na kartách je kombinace:
 *-2 "zelené"*
 
@@ -133,7 +154,7 @@ Při nákupu karet s cenou v bílých žetonech musíte k ceně (bílým) přič
 | 1 černý      | 2 černé   |
 | 3 zelené     | 3 zelené  |
 
-### Přehledová kartička s nápovědou
+## Přehledová kartička s nápovědou
 
 🂠 SPLENDOR: SEZÓNY – Přehled
 
