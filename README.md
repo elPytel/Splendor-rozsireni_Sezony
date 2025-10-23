@@ -1,6 +1,7 @@
 # Splendor rozšíření: Sezóny
 
 - [Splendor rozšíření: Sezóny](#splendor-rozšíření-sezóny)
+  - [Rozšíření](#rozšíření)
   - [Údálost (změna ceny)](#údálost-změna-ceny)
     - [Design událostí](#design-událostí)
   - [Tabulka karet Sezón (žetonů)](#tabulka-karet-sezón-žetonů)
@@ -9,6 +10,17 @@
   - [Herní příklad](#herní-příklad)
   - [Přehledová kartička s nápovědou](#přehledová-kartička-s-nápovědou)
 
+> [!warning] Právní upozornění:
+> Název, logo a font „Splendor“ jsou ochrannými známkami společnosti Space Cowboys.
+> Toto fanouškovské rozšíření „Splendor: Sezóny“ je neoficiální a vzniklo výhradně pro osobní, nekomerční použití.
+> Všechny ochranné známky a práva duševního vlastnictví zůstávají ve vlastnictví jejich příslušných držitelů.
+
+> [!warning] Legal Disclaimer:
+> The name, logo, and font “Splendor” are trademarks of Space Cowboys.
+> This fan-made expansion, “Splendor: Seasons,” is an unofficial, non-commercial project created solely for personal use.
+> All trademarks and intellectual property rights remain the property of their respective owners.
+
+## Rozšíření
 Přicházejí sezónní slevy (zdražení) na nákup karet. 
 Vybrané kameny jsou na kartách levnější, nebo dražší podle údálostí ve hře.
 
@@ -156,31 +168,6 @@ Při nákupu karet s cenou v bílých žetonech musíte k ceně (bílým) přič
 
 ## Přehledová kartička s nápovědou
 
-🂠 SPLENDOR: SEZÓNY – Přehled
-
-🎲 Změna sezóny
-
-- Na začátku svého tahu může hráč hodit kostkou.
-- Padne-li 6, změní se sezóna.
-- Otoč novou kartu Sezóny a novou kartu Události.
-
-💎 Karty
-- Sezóny určují barvu žetonu.
-- Události mění cenu karet (např. +1, −2).
-- Žetony zlata (🟡) se nikdy nemění.
-
-⚖️ Účinek
-
-Při nákupu karty:
-- Připočti / odečti cenu žetonu podle události.
-- Cena nemůže být záporná.
-
-💡 Např.:
-
-Událost −2 Zelené → všechny karty se zelenými žetony jsou levnější o 2.
-
-🔄 Konec události
-
-Změní se, když padne další 6 na kostce.
+[Přehled text](Přehled.md)
 
 ![Přehledová kartička s nápovědou](assets/ChatGPT-SEZÓNY_Přehled.png)
