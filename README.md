@@ -32,7 +32,7 @@ Rubové karty:
 
 | Pravidla | Sezóny | Události |
 |--------|----------|----------|
-| ![](assets/ChatGPT-Sezóny_Pravidla.png) | ![](assets/ChatGPT-Sezóny_rub.png) | ![](assets/ChatGPT-Události.png) |
+| ![](assets/ChatGPT-Rub_Pravidla.png) | ![](assets/ChatGPT-Sezóny.png) | ![](assets/ChatGPT-Události.png) |
 
 Hráč může a nebo nemusí hodit kostkou na začátku svého tahu. Pokud padne 6, mění se sezóna. Hráč otočí vrchní kartu z obou balíčků.
 
@@ -52,8 +52,8 @@ Ceny se mohou měnit: -2, -1, +1, +2
 Počet událostí: 5, 10, 15 (aby byli soudělné balíčky)
 
 Typy událostí:
-- **+2** - Zavalený důl ⛏️, Parné léto ☀️
-- **+1** - Změna vkusu 💍, královská daň 👑, potopená loď ⚓, ledový průsmyk 🧊, rozbouřené moře 🌊, piráti 🏴‍☠️, Ztracená karavana 🐪
+- **+2** - Zavalený důl ⛏️, Parné léto ☀️, potopená loď ⚓
+- **+1** - Změna vkusu 💍, královská daň 👑, ledový průsmyk 🧊, rozbouřené moře 🌊, piráti 🏴‍☠️, Ztracená karavana 🐪
 - **-1** - Obchodní smlouva 📜, cechovní podpora 🛠️, krátká zima ❄️, vydatná žíla 💎, příznivý vítr 💨
 - **-2** - Nová naleziště 💎, Snížené clo 🪙
 
@@ -66,14 +66,13 @@ Použito jako popis pro generování obrázků v ChatGPT.
 |---------------|----------------|
 | +2 Zavalený důl | Štola s kameními a zřícený důl. Kamenné bloky a dřevěné výztuže. |
 | +2 Parné léto | Černoch u vchodu do dolu. Utírá si pot z čela. Na vše praží slunce. Uvadlá tráva na zemi. |
+| +2 Potopená loď | Loď rozervaná bouří, naražená na kameny. |
 
 **+1**
-
 | Text na kartě | Popis obrázku |
 |---------------|----------------|
 | +1 Změna vkusu | Ruka s diamantovým prstenem, noblesní styl, detail na šperk. |
 | +1 Královská daň | Obchodník odevzdává truhlu s mincemi ozbrojenému výběrčímu v brnění s královským znakem. |
-| +2 Potopená loď | Loď rozervaná bouří, naražená na kameny. |
 | +1 Ledový průsmyk | Horský průsmyk zavátý sněhem a ledem, vánice, chladná modro-bílá paleta. |
 | +1 Rozbouřené moře | Bouřlivé moře, černé mraky, déšť, blesk v dálce. |
 | +1 Piráti | Pirátská loď na rozbouřeném moři, vlající černá vlajka. |
@@ -130,13 +129,13 @@ Použito jako popis pro generování obrázků v ChatGPT.
 
 [Úvodní text](./Úvod.md)
 
-Benáčtí obchodnící čelí nečaným událostem, které mohou s jinak výdělečnými ochody s diamantami rychle zamávat. 
+Benáčtí obchodnící čelí nečekaným událostem, které mohou s jinak výdělečnými ochody s diamantami rychle zamávat. 
 
-Námořní doprava je nebezpečná a zrádná. Navyzpytatelné počasí si na obdhocních lodích vybírá svou daň stejně draze jako ti prokletí piráti. Lodě se vracejí čím dál častěji poškozené a občas nevrátí vůbec...
+Námořní doprava je nebezpečná a zrádná. Navyzpytatelné počasí si na obchodních lodích vybírá svou daň stejně draze jako ti prokletí piráti. Lodě se vracejí čím dál častěji poškozené a občas nevrátí vůbec...
 No ale na druhou stranu, ani na pěvnině to není zrovna růžové. Najmete si takhle třeba karavanu a ona se ztratí v poušti i s nákladem!
 Ještě aby letos nepřišla tuhá zima. Zapadají horské průsmyky na Kavkazu a co pak?
 
-A vůbec vám nemluvte o králi! Zas ty jeho válečná tažení v Toskánksu. Kdo chtěl vůbec tu jednotnou Itálii? No vy ne, bylo vám tu dobře i bez něj. Prý se dokonce chystá uvalit novou daň z obchodu s darými kameny. 
+A vůbec vám nemluvte o králi! Zas ty jeho válečná tažení v Toskánksu. Kdo chtěl vůbec tu jednotnou Itálii? Vy ne, bylo vám tu dobře i bez něj. Prý se dokonce chystá uvalit novou daň z obchodu s darými kameny. 
 
 Aspoň že váš cech drží při sobě a krejete si záda před konkurencí, držet alespoň část trhu pevně v rukách je mocná zbraň, která vám umožnuje se občas podělit o nebývale vysoké zisky. Snažíte se větřít králi do jeho přízně a přesvědčit ho, aby alespoň snížil clo pro dovezený náklad z vašich lodí. Ale není to s ním lehké, ještě aby se mu změnil vkus!
 
